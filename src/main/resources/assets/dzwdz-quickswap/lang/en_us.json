@@ -1,11 +1,15 @@
 {
-  "key.dzwdz.quickswap.qs.1": "Quickly Swap to Slot 1",
-  "key.dzwdz.quickswap.qs.2": "Quickly Swap to Slot 2",
-  "key.dzwdz.quickswap.qs.3": "Quickly Swap to Slot 3",
-  "key.dzwdz.quickswap.qs.4": "Quickly Swap to Slot 4",
-  "key.dzwdz.quickswap.qs.5": "Quickly Swap to Slot 5",
-  "key.dzwdz.quickswap.qs.6": "Quickly Swap to Slot 6",
-  "key.dzwdz.quickswap.qs.7": "Quickly Swap to Slot 7",
-  "key.dzwdz.quickswap.qs.8": "Quickly Swap to Slot 8",
-  "key.dzwdz.quickswap.qs.9": "Quickly Swap to Slot 9"
+  "key.categories.dzwdz.quickswap": "QuickSwap",
+  "key.dzwdz.quickswap.qs.1": "Swap to Slot 1",
+  "key.dzwdz.quickswap.qs.2": "Swap to Slot 2",
+  "key.dzwdz.quickswap.qs.3": "Swap to Slot 3",
+  "key.dzwdz.quickswap.qs.4": "Swap to Slot 4",
+  "key.dzwdz.quickswap.qs.5": "Swap to Slot 5",
+  "key.dzwdz.quickswap.qs.6": "Swap to Slot 6",
+  "key.dzwdz.quickswap.qs.7": "Swap to Slot 7",
+  "key.dzwdz.quickswap.qs.8": "Swap to Slot 8",
+  "key.dzwdz.quickswap.qs.9": "Swap to Slot 9",
+  "key.dzwdz.quickswap.cam.1": "Swap to First Person",
+  "key.dzwdz.quickswap.cam.2": "Swap to Back Camera",
+  "key.dzwdz.quickswap.cam.3": "Swap to Front Camera"
 }
